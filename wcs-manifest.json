@@ -1,0 +1,31 @@
+{
+  "title": "webcomp-pages-showcase",
+  "description": "Component for showcasing an image with a title or tagline.",
+  "descriptionAbstract": "Showcase component",
+  "license": "AGPL-3.0",
+  "repositoryUrl": "https://github.com/noi-techpark/webcomp-pages-showcase",
+  "authors": [
+    {
+      "name": "NOI",
+      "email": "info@noi.bz.it",
+      "organization": "NOI S.p.A",
+      "organizationUrl": "https://noi.bz.it"
+    },
+    {
+      "name": "Daniel Rampanelli",
+      "email": "hello@danielrampanelli.com"
+    }
+  ],
+  "image": null,
+  "searchTags": ["pages", "showcase"],
+  "dist": {
+    "basePath": "dist",
+    "files": [
+      "pages-showcase.min.js"
+    ]
+  },
+  "configuration": {
+    "tagName": "pages-showcase",
+    "options": []
+  }
+}
